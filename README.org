@@ -11,4 +11,4 @@
 - [[http://www.quirksmode.org/js/contents.html][Quirksmode Javascript]]
 - [[http://nodeschool.io][NodeSchool]]
 - [[https://github.com/sethvincent/javascripting][Resource on Github]]
-- ### =To be continued=
+- *To be continued*
