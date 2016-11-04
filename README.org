@@ -1,0 +1,14 @@
+#+TITLE: J-Res
+-----
+* Introduction
+  *This is* =resource= *collections for leran* =Javascript=.
+
+
+* Resource
+- [[https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript][MDN A re-introduction to JavaScript zh-CN]]
+- [[https://developer.mozilla.org/en-US/docs/Web/JavaScript][MDN JavaScript-en]]
+- [[https://developer.mozilla.org/zh-CN/docs/Web/JavaScript][MDN Javascript-zh-CN]]
+- [[http://www.quirksmode.org/js/contents.html][Quirksmode Javascript]]
+- [[http://nodeschool.io][NodeSchool]]
+- [[https://github.com/sethvincent/javascripting][Resource on Github]]
+- ### =To be continued=
